@@ -3,8 +3,15 @@
   "version": "0.1.0",
   "description": "My personal Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:kamesuke42/prettier-config.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamesuke42/prettier-cofig.git"
+  },
   "keywords": ["prettier"],
   "author": "kamesuke42 <kamesuke42@kamesuke42.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamesuke42/prettier-config/issues"
+  },
+  "homepage": "https://github.com/kamesuke42/prettier.config"
 }
