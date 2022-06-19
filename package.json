@@ -5,7 +5,7 @@
   "main": "index.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kamesuke42/prettier-cofig.git"
+    "url": "https://github.com/kamesuke42/prettier-config.git"
   },
   "keywords": [
     "prettier"
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/kamesuke42/prettier-config/issues"
   },
-  "homepage": "https://github.com/kamesuke42/prettier.config"
+  "homepage": "https://github.com/kamesuke42/prettier-config"
 }
